@@ -1,0 +1,15 @@
+default_context:
+    municipality: "Atlanta"
+    iana_timezone: "America/New_York"
+    governing_body_type: "city council"
+    municipality_slug: "atlanta"
+    python_municipality_slug: "atlanta"
+    infrastructure_slug: "cdp-atlanta-37e7dd70"
+    maintainer_or_org_full_name: "evamaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "atlanta"
+    hosting_github_url: "https://github.com/CouncilDataProject/atlanta"
+    hosting_web_app_address: "https://councildataproject.github.io/atlanta"
+    firestore_region: "us-central"
+    event_gather_timedelta_lookback_days: 2
+    event_gather_cron: "39 1,13 * * *"
