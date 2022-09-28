@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-atlanta"]=this["webpackJsonpcdp-atlanta"]||[]).push([[0],{201:function(t,e){},88:function(t,e,n){"use strict";n.r(e);n(0);var i=n(25),a=n.n(i),o=n(63),c=(n(215),n(54));a.a.render(Object(c.jsx)("div",{children:Object(c.jsx)(o.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-atlanta-37e7dd70"},settings:{}},municipality:{name:"Atlanta",timeZone:"America/New_York",footerLinksSections:[]}},children:Object(c.jsx)(o.App,{})})}),document.getElementById("root"))}},[[88,1,2]]]);
+//# sourceMappingURL=main.b1019c9c.chunk.js.map
