@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/atlanta/static/js/main.68180452.chunk.js",
-    "main.js.map": "/atlanta/static/js/main.68180452.chunk.js.map",
-    "runtime-main.js": "/atlanta/static/js/runtime-main.3b7a9b94.js",
-    "runtime-main.js.map": "/atlanta/static/js/runtime-main.3b7a9b94.js.map",
+    "main.js": "/atlanta/static/js/main.0dff7c99.chunk.js",
+    "main.js.map": "/atlanta/static/js/main.0dff7c99.chunk.js.map",
+    "runtime-main.js": "/atlanta/static/js/runtime-main.e264a68b.js",
+    "runtime-main.js.map": "/atlanta/static/js/runtime-main.e264a68b.js.map",
     "static/css/2.bd5b6b7e.chunk.css": "/atlanta/static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.4ee0a72f.chunk.js": "/atlanta/static/js/2.4ee0a72f.chunk.js",
-    "static/js/2.4ee0a72f.chunk.js.map": "/atlanta/static/js/2.4ee0a72f.chunk.js.map",
+    "static/js/2.4e37f2f6.chunk.js": "/atlanta/static/js/2.4e37f2f6.chunk.js",
+    "static/js/2.4e37f2f6.chunk.js.map": "/atlanta/static/js/2.4e37f2f6.chunk.js.map",
     "index.html": "/atlanta/index.html",
     "static/css/2.bd5b6b7e.chunk.css.map": "/atlanta/static/css/2.bd5b6b7e.chunk.css.map",
-    "static/js/2.4ee0a72f.chunk.js.LICENSE.txt": "/atlanta/static/js/2.4ee0a72f.chunk.js.LICENSE.txt"
+    "static/js/2.4e37f2f6.chunk.js.LICENSE.txt": "/atlanta/static/js/2.4e37f2f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b7a9b94.js",
+    "static/js/runtime-main.e264a68b.js",
     "static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.4ee0a72f.chunk.js",
-    "static/js/main.68180452.chunk.js"
+    "static/js/2.4e37f2f6.chunk.js",
+    "static/js/main.0dff7c99.chunk.js"
   ]
 }
